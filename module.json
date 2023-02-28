@@ -13,6 +13,6 @@
 		"minimum": 10,
 		"verified": 10
 	},
-  "manifest": "https://raw.githubusercontent.com/JennyOfWorms/fvtt-variant-advancement/main/variant-advancement.js",
+  "manifest": "https://raw.githubusercontent.com/JennyOfWorms/fvtt-variant-advancement/main/module.json",
   "download": ""
 }
