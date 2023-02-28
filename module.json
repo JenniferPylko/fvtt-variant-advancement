@@ -1,0 +1,18 @@
+{
+  "id": "variant-advancement",
+  "title": "Variant Advancement",
+  "description": "Subtracts level-up XP during advancement",
+  "version": "1.0.0",
+  "authors": [{"name": "Jenny", "url": "https://github.com/JennyOfWorms/"}],
+  "scripts": [
+    "./variant-advancement.js"
+  ],
+  "styles": [],
+  "packs": [],
+	"compatibility": {
+		"minimum": 10,
+		"verified": 10
+	},
+  "manifest": "",
+  "download": ""
+}
